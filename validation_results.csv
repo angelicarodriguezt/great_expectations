@@ -1,0 +1,6 @@
+Expectation Type,Success,Column
+expect_column_max_to_be_between,False,#Passengers
+expect_column_sum_to_be_between,True,#Passengers
+expect_column_to_exist,True,Month
+expect_column_values_to_be_unique,True,Month
+expect_column_values_to_not_be_null,True,#Passengers
